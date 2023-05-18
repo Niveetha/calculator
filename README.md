@@ -40,7 +40,7 @@ Please ensure that your code follows the project's coding conventions and includ
 
 ## License
 
-The Calculator application is released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this application.
+The Calculator application is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this application.
 
 ## Contact
 
